@@ -1,0 +1,12 @@
+
+{
+  "name": "RehabBridge AI",
+  "short_name": "RehabBridge",
+  "description": "Recovery Continuity Navigator — a fictional-case demonstration.",
+  "start_url": "/rehabbridge-ai/",
+  "scope": "/rehabbridge-ai/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f8f8",
+  "theme_color": "#167d79"
+}
