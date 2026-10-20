@@ -1,4 +1,3 @@
-
 {
   "name": "RehabBridge AI",
   "short_name": "RehabBridge",
@@ -8,5 +7,12 @@
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#f3f8f8",
-  "theme_color": "#167d79"
+  "theme_color": "#167d79",
+  "icons": [
+    {
+      "src": "/rehabbridge-ai/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
